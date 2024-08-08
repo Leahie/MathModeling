@@ -1,0 +1,38 @@
+[
+    
+    {
+        "label":"J",
+        "name": "Supernerd",
+        "symbol": "♣", 
+        "img": "/Jack.png", 
+        "desc": "Thought I would keep playing roblox until adulthood, now I can code roblox"
+    },
+    {
+        "label":"Q",
+        "name": "Lover",
+        "symbol": "♥", 
+        "img": "/Queen.png", 
+        "desc": "Started in fourth grade and never quit, it's like cocaine at this point"
+    },
+    {
+        "label":"Joker",
+        "name": "Leah Zhang",
+        "symbol": "§", 
+        "img": "/Joker.png", 
+        "desc": "It's just me; explore the website to find out more!"
+    },
+    {
+        "label":"K",
+        "name": "Foodie",
+        "symbol": "♦", 
+        "img": "/King.png", 
+        "desc": "Makes me go broke, but my stomach is fed"
+    },
+    {
+        "label":"A",
+        "name": "Artisete",
+        "symbol": "♠", 
+        "img": "/Ace.png", 
+        "desc": "This one's my first and almost-only love"
+    }
+]

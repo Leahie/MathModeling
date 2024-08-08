@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Victoria Zhang",
+      "role": "President", 
+      "image":"/leadership/2024_2025/victoria.jpeg"
+    },
+    {
+      "name": "Anvith Kakkera",
+      "role": "Vice President", 
+      "image":"/leadership/2024_2025/anvith.jpg"
+    },
+    {
+      "name": "Jason Hao",
+      "role": "Competition Coordinator", 
+      "image":"/leadership/2024_2025/anvith.jpg"
+    },
+    {
+      "name": "Smaran Kudapa",
+      "role": "Competition Coordinator", 
+      "image":"/leadership/2024_2025/anvith.jpg"
+    },
+    {
+      "name": "Megan Zhang",
+      "role": "Finance/Publicist", 
+      "image":"/leadership/2024_2025/megan.jpg"
+    },
+    {
+        "name": "Zoeb Izzi",
+        "role": "Teaching Coordinator", 
+        "image":"/leadership/2024_2025/zoeb.jpg"
+    },
+    {
+        "name": "Ryan Singh",
+        "role": "Teaching Coordinator", 
+        "image":"/leadership/2024_2025/ryan.jpg"
+    },
+    {
+      "name": "Leah Zhang",
+      "role": "Webmaster", 
+      "image":"/leadership/2024_2025/leah.png"
+    }
+  ]

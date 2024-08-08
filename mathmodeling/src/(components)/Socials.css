@@ -1,0 +1,37 @@
+.SocialLinks{
+    font-size: 2.5em;
+    margin: .5em;
+    display: flex;
+    width: 6em;
+    
+    justify-content: space-around;
+}
+.SocialLinks a{
+    color: var(--med);
+}
+.SocialLinks a:hover{
+    color: var(--dark);
+}
+
+.Socials .Buttons{
+    display: flex;
+    margin: 1.5em 0em 1em ;
+    justify-content: space-around;
+    
+}
+
+.Socials .Buttons> *{
+    background-color: #E1AFD1;
+    padding: .7em ;
+    border-radius: .5em;    
+    color: #252468;
+    text-decoration: none;
+    width: fit-content;
+    font-size: large;
+    font-weight: 600;
+}
+@media (max-width: 650px) {
+    .SocialLinks{
+        margin: 0em;
+    }
+}
