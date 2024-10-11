@@ -17,7 +17,7 @@
 }
 
 .Nav .Logo a{
-    color: var(--dark);
+    color: var(--black);
 }
 .Nav .Navlinks{
     font-size: 1.3em;
@@ -31,7 +31,7 @@
 }
 .Nav .Navlinks >*{
     vertical-align: bottom;
-    color: var(--dark);
+    color: var(--black);
     font-weight: 500;
 }
 

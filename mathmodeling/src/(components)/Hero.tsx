@@ -17,7 +17,7 @@ export default function Hero(props: HeroProps){
             </video>
             <div className="gradimg"></div>
             <div className="Info">
-            <h1><i>Real</i> World Applications.</h1>
+            <h1 className="text-[7em]"><i>Real</i> World Applications.</h1>
              </div>
         </div>
     )
