@@ -41,8 +41,8 @@ export default function Home() {
               leaders.map(({name, role, image}, index)=>(
                   
                 <motion.div className={["flex flex-col content-center items-center justify-center max-w-xs m-4 ", "PockerCard"].join(" ")}
-                  initial={{ opacity: 0, rotate: 12}}
-                  whileInView={{ opacity: 1, rotate:0}}
+                  initial={{ opacity: 0}}
+                  whileInView={{ opacity: 1}}
                   transition={{ type: "spring", duration: 2 }}
                   whileHover={{
                       scale: 1.15, 

@@ -36,7 +36,7 @@ export default function Nav(props: BoxProps){
     return(
         <div className={['Nav',ItemsClass, montserrat.className].join(' ')}>
             <div className={['Logo', 'font-ysabeau'].join(' ')}>
-                <a href="/" id='LogoRI'>MATH modeling</a>
+                <a href="/" id='LogoRI'>TJMATH modeling</a>
                 <div id="LogoMID"></div>
                 <span onClick={toggleit} className="navbar-toggle" id="js-navbar-toggle">
                    <Hamburger /> 
@@ -44,8 +44,8 @@ export default function Nav(props: BoxProps){
             </div>
             <div className={['Navlinks', LinksClass, 'font-roboto'].join(' ')}>
                 <Link href="/challenge" style={props.place===0 ? { borderBottom: "5px solid #453F78"} : {}}>CHALLENGE</Link>
-                <Link href="/blog" style={props.place===1 ? {borderBottom: "5px solid #453F78"} : {}}>LECTURES</Link>
-                <Link href="/portfolio" style={props.place===2 ? { borderBottom: "5px solid #453F78"} : {}}>RESOURCES</Link>
+                <Link href="/lectures" style={props.place===1 ? {borderBottom: "5px solid #453F78"} : {}}>LECTURES</Link>
+                {/* <Link href="/portfolio" style={props.place===2 ? { borderBottom: "5px solid #453F78"} : {}}>RESOURCES</Link> */}
             </div>
         </div>
     )

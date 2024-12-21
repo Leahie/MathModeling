@@ -1,0 +1,109 @@
+[
+    
+    {
+        "name": "Sensitivity Analysis (2023-24)",
+        "link": "https://docs.google.com/presentation/d/1U5422VpZjllAZlYUBMof4YzfTNFT5BGN_IbcBsQJiUw/edit?usp=sharing", 
+        "image": "/lectures/sensitivity2024.png"
+    },
+    {
+        "name": "2017 M3C Problem Walkthrough",
+        "link": "https://docs.google.com/presentation/d/18A6sCzjjeA3zk5YtAtbuhbo5utZ5XQ5E8mmShNxDKDo/edit?usp=sharing", 
+        "image": "/lectures/walkthru.png"
+    },
+    {
+        "name": "Markov Chains (2023-24)",
+        "link": "https://docs.google.com/presentation/d/1ft1YYTM3v1Au5ldLfuTbx9LOzCrqq6L42XEOCpaVZU0/edit?usp=sharing", 
+        "image": "/lectures/markov2024.png"
+    },
+    {
+        "name": "Scientific Writing &amp; the M3C Paper",
+        "link": "https://docs.google.com/presentation/d/1-oc8R4Fo0Dxi7LMRKXRAaG7z2U6pYHi9JpjOZhL-F44/edit?usp=sharing", 
+        "image": "/lectures/scientificwriting.png"
+    },
+    {
+        "name": "Forecasting &amp; Time Series",
+        "link": "https://docs.google.com/presentation/d/17xjHfqSiAN1pGokthW-6AoE5nMN40GmrbbTv28oaSZE/edit?usp=sharing", 
+        "image": "/lectures/timeseries.png"
+    },
+    {
+        "name": "Forecasting Challenge",
+        "link": "https://docs.google.com/presentation/d/1dV920WyXMoxT37Zcj3BRuJ3jiWIy64XqQzhJMVN7JsA/edit?usp=sharing", 
+        "image": "/lectures/forecastingchallenge.png"
+    },
+    {
+        "name": "Nonlinear Regression",
+        "link": "https://docs.google.com/presentation/d/1FejXvPjpkrNQ8O4PzBrroemhJJITaTcqne3bXBT7kYE/edit?usp=sharing", 
+        "image": "/lectures/nonlinreg.png"
+    },
+    {
+        "name": "2023-24 Intro",
+        "link": "https://docs.google.com/presentation/d/1TZBk59DvEyQnRZUpKkvzigYYDIU75wEr-7WNpXvad-4/edit?usp=sharing", 
+        "image": "/lectures/24intro.png"
+    },
+    {
+        "name": "Differential Equations: SIR Model &amp; Pandemics",
+        "link": "https://docs.google.com/presentation/d/1OClfpoIL3TSmETTdGEJ2C5rMSYYoU-gCPs-2_RkbVrw/edit?usp=sharing", 
+        "image": "/lectures/diffeqsir.png"
+    },
+    {
+        "name": "Monte Carlo Methods",
+        "link": "https://docs.google.com/presentation/d/1iyOUg-xvWYEjRJMxh0RgYDZ7tohIl1hdQcbbeED2k2A/edit?usp=sharing", 
+        "image": "/lectures/montecarlo.png"
+    },
+    {
+        "name": "Sensitivity Analysis",
+        "link": "https://docs.google.com/presentation/d/1VBxxj7NOYZr62DKj161j1SJs746laDZpIiiruwH_sh4/edit?usp=sharing", 
+        "image": "/lectures/sensitivityanalysis.png"
+    },
+    {
+        "name": "Markov Chains &amp; Least Squares Review",
+        "link": "https://docs.google.com/presentation/d/1g5lYR-Q6XQeVmooo46wkdhPjouSsXdIULljoFUscg-o/edit?usp=sharing", 
+        "image": "/lectures/markovandleastsquares.png"
+    },
+    {
+        "name": "Quantitative modeling &amp; analysis in neuroscience - Dr. Hadjiabadi",
+        "link": "https://docs.google.com/presentation/d/1jtigBeRvV3ikODBrhsdmrkQcD2mpOVv6/edit?usp=sharing&amp;ouid=109405827646590862193&amp;rtpof=true&amp;sd=true", 
+        "image": "/lectures/neuro.png"
+    },
+    {
+        "name": "Importing &amp; Processing Data on MATLAB",
+        "link": "https://docs.google.com/presentation/d/1wQUdL8yXE7yK1QzVq1LzAKCVB00koCR0j-lib5i3F84/edit?usp=sharing", 
+        "image": "/lectures/matlabimport.png"
+    },
+    {
+        "name": "Markov Chains",
+        "link": "https://docs.google.com/presentation/d/1XMIAtEV0Jn8kSbnMjy-vh2_U_dNl173rH0eW1USgSg4/edit?usp=sharing", 
+        "image": "/lectures/linmat4.png"
+    },
+    {
+        "name": "Expanding on Linear Regression",
+        "link": "https://docs.google.com/presentation/d/1WmP2EnYyZN5a3b7T8ZciErTf_Lw-34IEqA61hwVLrEY/edit?usp=sharing", 
+        "image": "/lectures/linmat3.png"
+    },
+    {
+        "name": "Least Squares Lines &amp; Linear Regression",
+        "link": "https://docs.google.com/presentation/d/1TlORSsuLOznPLdu_bMaUiCgQDOgSDTNQfvexgE4pzXc/edit?usp=sharing", 
+        "image": "/lectures/linmat2.png"
+    },
+    {
+        "name": "M3 - Variables &amp; Assumptions",
+        "link": "https://docs.google.com/presentation/d/1EBtTfWiZ1F8oxcZmXMKCcNYJnx5czlKySWo9f_ywDxE/edit?usp=sharing", 
+        "image": "/lectures/m3introvarassum.png"
+    },
+    {
+        "name": "Basics of Matrices",
+        "link": "https://docs.google.com/presentation/d/1SHsQeBFJk5DuN6woFTfOFElNcaUfqADD_--TTtOJRvA/edit?usp=sharing", 
+        "image": "/lectures/linmat1.png"
+    },
+    {
+        "name": "MATLAB Intro",
+        "link": "https://docs.google.com/presentation/d/1A18drxCxXhM0u15_PuRk6fz2XMuqM1bORZm_bmYvqVA/edit?usp=sharing", 
+        "image": "/lectures/matlabintro.png"
+    },
+    {
+        "name": "Introduction &amp; Interest Meeting",
+        "link": "https://docs.google.com/presentation/d/1UPCMy1MI9BSOnR9AL-LyA4fSzQVa-woXxuMQc3-lnOg/edit?usp=sharing", 
+        "image": "/lectures/mmcintro.png"
+    }
+    
+]
